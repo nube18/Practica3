@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">Proyecto 6</string>
-    <string name="boton_continuar">Continuar</string>
-    <string name="boton_cancelar">Cancelar</string>
+    <string name="boton_continuar">Continue</string>
+    <string name="boton_cancelar">Cancel</string>
 </resources>
