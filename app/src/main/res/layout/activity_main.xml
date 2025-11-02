@@ -21,16 +21,19 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
+        android:backgroundTint="@color/green_button"
         android:text="@string/boton_continuar"
+        android:textColor="@android:color/white"
         tools:ignore="MissingConstraints"
-        tools:layout_editor_absoluteX="49dp"
-        tools:layout_editor_absoluteY="74dp" />
+        android:layout_marginTop="32dp" />
 
     <Button
         android:id="@+id/btnCancelar"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/boton_cancelar"
+        android:backgroundTint="@color/red_button"
+        android:textColor="@android:color/white"
         android:layout_marginTop="16dp"
         android:layout_gravity="center"
         tools:ignore="MissingConstraints" />
